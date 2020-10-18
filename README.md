@@ -1,6 +1,6 @@
-# BasicCodingC
-# Basic C Programs on Control Statements (Looping) & Recursion
 
+# Basic C Programs on Control Statements (Looping) & Recursion
+-------------------------------------------------------------------------------
             #Easy to solve 
 
 
