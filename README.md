@@ -1,69 +1,50 @@
 # BasicCodingC
-Basic C Programs on Control Statements (Looping) & Recursion
+# Basic C Programs on Control Statements (Looping) & Recursion
 
-Easy to solve 
+            #Easy to solve 
 
 
-A character is a vowel or consonant
+-> A character is a vowel or consonant
 
-A character is an alphabet or not
+->A character is an alphabet or not
 
-Ascii values of a character
+->Ascii values of a character
 
-Uppercase, Lowercase or special character
+->Uppercase, Lowercase or special character
 
-A number is positive or negative
+->A number is positive or negative
 
-A number is even or odd
+->A number is even or odd
 
-Swap two numbers without third variable
+->Swap two numbers without third variable
 
-Area of a circle
+->Area of a circle
 
-LCM of two numbers
+->LCM of two numbers
 
-GCD of two numbers
+->GCD of two numbers
 
-Greatest of two numbers
+->Greatest of two numbers
 
-Greatest of three numbers
+->Greatest of three numbers
 
-Number of digits in an integer
+->Number of digits in an integer
 
-Sum of digits of a number
+->Sum of digits of a number
 
-Sum of N natural numbers
+->Sum of N natural numbers
 
-Sum of numbers in a given range
+->Sum of numbers in a given range
 
-Reverse a given number
+->Reverse a given number
 
-Factorial of a number
+->Factorial of a number
 
-Fibonacci series up ton
+->Fibonacci series up ton
 
-Leap year or not
+->Leap year or not
 
-Prime number or not
+->Prime number or not
 
-Palindrome or not
+->Palindrome or not
 
-Armstrong number or not
-
-Strong number or not
-
-Perfect number or not
-
-Friendly pair or not (amicable or not)
-
-Automorphic number or not
-
-Harshad number or not
-
-Abundant number or not
-
-Power of a number
-
-Factors of a number
-
-Add two fractions
